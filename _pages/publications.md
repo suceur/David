@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications/2022-Arena-Bench
 author_profile: true
 ---
 
